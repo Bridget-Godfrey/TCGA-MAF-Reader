@@ -1,0 +1,17 @@
+MAF_DB.sql
+MAF_DB2.sql
+Mutation Info.xlsx
+TCGA-L6-A4EU-01.hg19.oncotator.hugo_entrez_remapped.maf.txt
+__pycache__/
+makeMysqlsh
+mutationData.db
+mutations2.db
+mutations3.db
+output1.csv
+output2.csv
+output3.csv
+output4.tsv
+output5.tsv
+tcgaDataOutput.tsv
+test.maf.txt
+uniprot_sprot.dat
